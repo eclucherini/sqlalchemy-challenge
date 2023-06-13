@@ -1,1 +1,3 @@
 # sqlalchemy-challenge
+
+In general, this challenge was one of the most challenging for me to date. I did find that most of the code could be copied from examples completed during class, but in general I struggle with the concepts. I googled anything that I couldn't replicate or adjust from code learned in class, primarily using examples StackOverflow and Geeks for Geeks that I could then adjust to fit in with my code.
